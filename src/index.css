@@ -1,0 +1,9 @@
+.chartContainer {
+
+    height: 100px;
+
+}
+.parent {
+    height: 85vh;
+    overflow: hidden;
+}
